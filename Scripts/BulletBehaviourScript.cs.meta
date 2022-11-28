@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 92a4a5f2404dfe9499b26d736aa926a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueStar: {fileID: 2531575384269672484, guid: 0a32f730bc1a3dc43b9f111f1595a23e, type: 3}
+  - greenStar: {fileID: 9130826542783088294, guid: a6800522731b1fd4d9cd3ac6cc0e1c5a, type: 3}
+  - redStar: {fileID: 7156546052804100306, guid: 00599377e39a4594684baae45f35a285, type: 3}
+  - yellowStar: {fileID: 7007493359003474108, guid: 561c9d5a23916594ea0a5f2bd5ef49b2, type: 3}
+  - pinkStar: {fileID: 7737118991005175138, guid: eb95de4c738155141b9e577fa99c3ae6, type: 3}
+  - orangeStar: {fileID: 692254672551287501, guid: b9758eaf60992024c99d77dc18ed9d69, type: 3}
+  - simpleO: {fileID: 2999124385185977550, guid: 0f2a641a63d63474d81049b8742d8c05, type: 3}
+  - littlePellet: {fileID: 3194089170974253508, guid: c586e0d36b483d74e90360b2dbaf1f9f, type: 3}
+  - player1: {fileID: 4854505945235735322, guid: db65a9bebbee79a4e812ecb3e0af3098, type: 3}
+  - player2: {fileID: 6573076323159203445, guid: 57ff2802760655945b0e71347639bfe1, type: 3}
+  - p1Heart1: {fileID: 1607705264694946875, guid: 414f2a44f7e17dd4b951eeec9f27f00c, type: 3}
+  - p1Heart2: {fileID: 1833955157905003407, guid: cf3008e74ebc4704692a356ed854ee9c, type: 3}
+  - p1Heart3: {fileID: 1272801339220395574, guid: 6035fba261f7e0d47a676e6f9293bfe4, type: 3}
+  - p2Heart1: {fileID: 8391329236090940107, guid: 0fdf535d051dda74db6f65a6875d9472, type: 3}
+  - p2Heart2: {fileID: 1807153292814572475, guid: 7453a6139c6699d46a81e55154234fe8, type: 3}
+  - p2Heart3: {fileID: 6891591747099966421, guid: 34384cd331c064a42a3ce934a43b1d86, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
